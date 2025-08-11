@@ -8,7 +8,7 @@ This simulation replicates a real-world data visualization task, where I worked 
 
 ## 📁 Repository Structure
 
-- `data/`: Contains the raw dataset provided for the simulation.
+- `online retail dataset/`: Contains the raw dataset provided for the simulation.
 - `dashboard/`: Includes the final interactive dashboards created in Excel and Tableau.
 - `README.md`: Project overview and documentation.
 
